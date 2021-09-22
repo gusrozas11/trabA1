@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+  }
+  
+  body {
+      font-family: Italianno;
+      background-image: logo_do_site.jpeg;
+  }
+  
+  h1, h2, h3 {
+      color: #162a83;
+  }
+  
+  h1 {
+      font-size: 40px;
+      letter-spacing: 2px;
+      margin-bottom: 20px;
+      margin-top: 20px;
+      text-align: left;
+      text-transform: uppercase;
+  }
+  
+  h2 {
+      font-size: 25px;
+      margin-bottom: 10px;
+      margin-top: 10px;
+  }
+  
+  h3 {
+      font-size: 20px;
+      margin-bottom: 10px;
+      margin-top: 10px;
+  }
+  
+  nav a:link {
+      color: blue;
+      font-size: 30px;
+      font-style: italic;
+      text-decoration: none;
+  }
+  
+  nav a:visited {
+      color: red;
+  }
+  
+  nav a:hover {
+      color: green;
+  }
+  
+  nav a:active {
+      text-decoration: underline red;
+  }
+  
+  aside a:link {
+      color: red;
+  }
+  
+  img {
+      max-width:300px;
+      max-height:300px;
+      width: auto;
+      height: auto;
+  }
