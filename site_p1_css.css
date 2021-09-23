@@ -5,6 +5,7 @@
   body {
       font-family: Italianno;
       background-image: logo_do_site.jpeg;
+	  background-size: cover;
   }
   
   h1, h2, h3 {
@@ -56,8 +57,26 @@
   }
   
   img {
-      max-width:300px;
-      max-height:300px;
       width: auto;
       height: auto;
   }
+  
+table, th, tr{
+	border: none;
+	width: 100%;
+	margin: 10px;
+	text-align: center
+}  
+  
+table nav{
+	padding: 90px;
+}
+
+
+.image {
+	width: 300px;
+	height: 200px;
+	float: left;
+	clear: left;
+	margin: 10px; 
+}
