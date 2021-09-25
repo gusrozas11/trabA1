@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: #c5654c;
+  font-family: Italianno;
+
+img {
+	width: 100%;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Italianno');
+
+}
+
+.local-caixa-de-pesquisa{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.container{
+  position: relative;
+  padding: 50px 120x;
+}
+
+.tamanho-caixa-de-pesquisa{
+  width: 1000px;
+  border: 2px solid #fff;
+  background: transparent;
+  padding: 18px 36px;
+  border-radius: 0px;
+  outline: none;
+  font-size: 25px;
+  color: #fff;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #fff;
+  font-family: Italianno;
+  text-transform: uppercase;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: #fff;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: #fff;
+}
+
+.botao-pesquisa{
+  position: absolute;
+  top: 100px;
+  right: 550px;
+  cursor: pointer;
+  color: #fff;
+  background: #143c97;
+  border: 0px;
+  width: 150px;
+  height: 65px;
+  border-radius: 0px;
+  outline: none;
+  text-transform: uppercase;
+  font-weight: bold;
+}
