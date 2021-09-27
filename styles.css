@@ -94,10 +94,7 @@ button {
       font-style: italic;
       text-decoration: none;
   }
-  
-  nav a:visited {
-      color: red;
-  }
+ 
   
   nav a:hover {
       color: #800080;
@@ -107,9 +104,7 @@ button {
       text-decoration: underline purple;
   }
   
-  aside a:link {
-      color: red;
-  }
+
   
  #tab4 table nav{
 	padding: 0px;
