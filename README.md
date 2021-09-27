@@ -3,7 +3,7 @@
 
  Alunos
  - Gustavo Rozas - B42592
- - Rian Freitas  - B43908
- - Matheus Fonseca - B44252
  - Lindsey de Vargas de Azevedo - B43912
+ - Matheus Fonseca - B44252
+ - Rian Freitas  - B43908
  - Vitória Vianna - B43911
