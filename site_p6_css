@@ -8,6 +8,14 @@ body {
 	width:100%;
 }
 
+.fonte_1{
+	font-family: Italianno;
+}
+
+.fonte_2{
+	font-family: Nunito;
+}
+
 h1, h2, h3,p, ul {
 	color: #162a83;
 }
@@ -53,7 +61,7 @@ ul{
 
 p{
 
-	font-size: 30px;
+	font-size: 25px;
 	letter-spacing: 1px;
 	margin-bottom: 1px;
 	margin-top: 2px;
