@@ -7,3 +7,5 @@
  - Matheus Fonseca - B44252
  - Rian Freitas  - B43908
  - Vitória Vianna - B43911
+
+OBS: As fontes baixadas utilizadas no projeto estão disponíveis para download no repositório.
