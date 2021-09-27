@@ -64,18 +64,6 @@ button {
   	width: 25%;
 }
 
-#button {
-  	background-color: #162a83;
-  	color: white;
-  	padding: 10px 10px;
-  	margin: 10px 0;
-  	border: none;
-  	cursor: pointer;
-	display: block
-	conteiner: block
-  	width: 100%;
-}
-
 }
 
 button:hover {
