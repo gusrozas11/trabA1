@@ -45,11 +45,11 @@
   }
   
   nav a:hover {
-      color: green;
+      color: #800080;
   }
   
   nav a:active {
-      text-decoration: underline red;
+      text-decoration: underline purple;
   }
   
   aside a:link {
@@ -57,7 +57,7 @@
   }
   
   img {
-      width: auto;
+      width: 100%;
       height: auto;
   }
   
