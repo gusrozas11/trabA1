@@ -9,7 +9,13 @@ body{
   background-size: cover;
 }
 
+.fonte_1{
+	font-family: Italianno;
+}
 
+.fonte_2{
+	font-family: Nunito;
+}
 
 .image {
 	width: 300px;
