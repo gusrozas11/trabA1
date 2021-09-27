@@ -285,6 +285,8 @@ img.avatar {
 .topnav {
   background-color:#c5654c;
   overflow: hidden;
+  border-bottom: solid;
+  border-bottom-color: #ffffff;
 }
 
 .topnav a {
@@ -303,7 +305,7 @@ img.avatar {
 }
 
 
-.topnav a.active {
+.topnav a:active {
   background-color: #94594a;
   color: white;
 }
